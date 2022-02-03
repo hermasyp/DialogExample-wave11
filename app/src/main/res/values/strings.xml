@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DialogExample</string>
+    <string name="show_simple_alert_dialog">Show Simple Alert Dialog</string>
+    <string name="show_dialog_with_button">Show Dialog With Button</string>
+    <string name="show_custom_alert_dialog">Show Custom Alert Dialog</string>
+    <string name="show_alert_dialog_combobox">Show Alert Dialog Combobox</string>
+    <string name="show_dialog_fragment">Show Dialog fragment</string>
+    <string name="enter_the_game">Enter the Game</string>
+    <string name="please_enter_your_name">Please Enter Your Name</string>
+
+    <string-array name="motherboard_list">
+        <item>Asus</item>
+        <item>Acer</item>
+        <item>AsRock</item>
+        <item>MSI</item>
+        <item>Razer</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btn_show_simple_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/show_simple_alert_dialog" />
+
+    <Button
+        android:id="@+id/btn_show_dialog_with_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/show_dialog_with_button" />
+
+    <Button
+        android:id="@+id/btn_show_dialog_with_combobox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/show_alert_dialog_combobox" />
+
+    <Button
+        android:id="@+id/btn_show_custom_alert_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/show_custom_alert_dialog" />
+
+    <Button
+        android:id="@+id/btn_show_dialog_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/show_dialog_fragment" />
+
+</LinearLayout>
